@@ -16,4 +16,6 @@ also install promote your equipments to the latest version
 
 After this you are good to go.
 
+WITH GREAT POWER COMES GREAT RESPONSIBILITY
+
 "Happy Hacking"
