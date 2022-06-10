@@ -7,6 +7,7 @@ Also upload your txt file on the same folder.
 
 
 **Prerequisite**
+
 Install Selenium on your python
 
 make sure you have pip installed
